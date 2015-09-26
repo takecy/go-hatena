@@ -1,0 +1,36 @@
+{
+	"ImportPath": "github.com/takecy/go-hatena",
+	"GoVersion": "go1.5.1",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/jtolds/gls",
+			"Rev": "f1ac7f4f24f50328e6bc838ca4437d1612a0243c"
+		},
+		{
+			"ImportPath": "github.com/smartystreets/assertions",
+			"Comment": "1.5.0-379-g75acd40",
+			"Rev": "75acd402ca38dc205641a826bb58b9de014926dd"
+		},
+		{
+			"ImportPath": "github.com/smartystreets/goconvey/convey",
+			"Comment": "1.5.0-379-g01b2fc9",
+			"Rev": "01b2fc9c34e7acc187a4f4218ed695dd7f76c361"
+		},
+		{
+			"ImportPath": "github.com/tj/go-debug",
+			"Comment": "v2.0.0",
+			"Rev": "ff4a55a20a86994118644bbddc6a216da193cc13"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "03affa02f16950ea3188823456766ed60bfed9bb"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2",
+			"Rev": "c30abeebd1a0c41f6e0d9ad6d26fd9daf8aff7d6"
+		}
+	]
+}
