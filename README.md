@@ -1,4 +1,5 @@
 # go-hatena
+[![Build Status](https://travis-ci.org/takecy/go-hatena.svg?branch=master)](https://travis-ci.org/takecy/go-hatena) [![GoDoc](https://godoc.org/github.com/takecy/go-hatena?status.svg)](https://godoc.org/github.com/takecy/go-hatena)
 
 ### Overview
 [Hatena](http://developer.hatena.ne.jp/ja/documents/bookmark/apis/rest) API client by golang.  
