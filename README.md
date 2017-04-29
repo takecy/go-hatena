@@ -5,6 +5,7 @@
 [Hatena](http://developer.hatena.ne.jp/ja/documents/bookmark/apis/rest) API client by golang.  
 
 <br/>
+
 ### Quick Start
 ```shell
 $ go get github.com/takecy/go-hatena/hatena
@@ -17,6 +18,7 @@ count, err := cli.Bookmarks.Count("https://www.google.co.jp/")
 and see [examples](examples)
 
 <br/>
+
 ### Features
 * Count API
  - [x] count bookmarks of URL
@@ -27,6 +29,7 @@ and see [examples](examples)
  - [ ] Users
 
 <br/>
+
 ### Development
 go version 1.5.1+
 ```shell
